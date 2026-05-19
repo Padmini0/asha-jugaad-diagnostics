@@ -456,7 +456,7 @@ Respond JSON only (no markdown):
         {/* Badge */}
         <div className="land-fade1" style={{display:"inline-flex",alignItems:"center",gap:8,background:"rgba(52,211,153,0.12)",border:"1px solid rgba(52,211,153,0.3)",borderRadius:20,padding:"5px 16px",fontSize:12,color:"#6ee7b7",marginBottom:24,letterSpacing:0.5}}>
           <span style={{width:6,height:6,borderRadius:"50%",background:"#34d399",display:"inline-block"}}/>
-          Barmer · Rajasthan · Rural Health Initiative
+          Rajasthan · Rural Health Initiative
         </div>
 
         {/* Headline */}
@@ -596,7 +596,7 @@ Respond JSON only (no markdown):
 
         {/* Bottom tagline */}
         <div style={{fontSize:11,color:"rgba(255,255,255,0.25)",marginBottom:24,letterSpacing:0.5}}>
-          Built for Bharat · Powered by AI · Made with ❤ for ASHA workers
+          Built for Bharat · Powered by AI · Made with ❤ for ASHA workers by team CitiZen
         </div>
       </div>
     </div>
